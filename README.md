@@ -1,6 +1,12 @@
 # Finetuning-CNNs-on-BOLD-response
 This repository contains the code and files for the project "Finetuning Convolutional Neural Networks (CNNs) on BOLD Response," developed as part of the Neuromatch Academy 2024 program. The goal of this project is to explore the application of fine-tuning pre-trained CNNs on fMRI data, specifically focusing on BOLD (Blood Oxygen Level Dependent) responses.
 
+# Process
+![Process of our work](process.PNG)
+
+# Correlation Results
+![Results before boosting](correlationresult.png)
+
 
 # Collaborators
 This project was developed with contributions from the following team members:
